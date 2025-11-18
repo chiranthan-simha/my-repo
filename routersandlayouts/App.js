@@ -125,6 +125,7 @@ export default function App() {
           >
             <Text style={styles.actionText}>Email</Text>
           </TouchableOpacity>
+          \\hertyfh
 
           <TouchableOpacity
             style={[styles.actionBtn, { backgroundColor: "#2575fc" }]}
